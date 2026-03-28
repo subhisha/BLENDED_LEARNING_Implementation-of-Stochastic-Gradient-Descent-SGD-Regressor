@@ -65,10 +65,11 @@ plt.show()
 ```
 
 ## Output:
-<img width="1055" height="764" alt="Screenshot 2026-02-24 142549" src="https://github.com/user-attachments/assets/6355109b-7d38-43a2-b5a3-4e0961cf5d11" />
-<img width="627" height="217" alt="image" src="https://github.com/user-attachments/assets/4253405a-88a6-4d52-aa84-f9038630488d" />
-<img width="317" height="134" alt="Screenshot 2026-03-28 111703" src="https://github.com/user-attachments/assets/2fc3241b-e878-4641-8bc3-9ea4f6583dca" />
-<img width="1295" height="702" alt="image" src="https://github.com/user-attachments/assets/695b8bcb-6219-46f4-8207-b44b4ad5ad9e" />
+<img width="1016" height="737" alt="Screenshot 2026-03-28 111406" src="https://github.com/user-attachments/assets/2fb71144-cd05-4ebc-b4f1-a4627b519612" />
+<img width="542" height="204" alt="Screenshot 2026-03-28 111616" src="https://github.com/user-attachments/assets/a541db74-0aaf-4a66-9c3a-16a10acdfe06" />
+<img width="317" height="134" alt="Screenshot 2026-03-28 111703" src="https://github.com/user-attachments/assets/ddf65e2b-2036-4ff5-9e66-330721e3d0d0" />
+<img width="1168" height="303" alt="Screenshot 2026-03-28 112045" src="https://github.com/user-attachments/assets/cfb49af5-10f4-4c9f-9692-953c3241fa9b" />
+<img width="1295" height="702" alt="Screenshot 2026-03-28 112157" src="https://github.com/user-attachments/assets/4bd8fd8c-64fb-4166-bd5a-254900b0d059" />
 
 ## Result
 Thus, the implementation of Stochastic Gradient Descent (SGD) Regressor for linear regression has been successfully demonstrated and verified using Python programming.
